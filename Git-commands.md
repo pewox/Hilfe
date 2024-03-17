@@ -7,6 +7,7 @@ git config --global user.email "peter@haha.de"
 ```
 git init
 git add README.md
+Dateien zum Repo hinzufügen
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/pewox/Hilfe.git

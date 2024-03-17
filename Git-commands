@@ -1,5 +1,9 @@
 ## Git-Commands
 ```
+git config --global user.name "peter"
+git config --global user.email "peter@haha.de"
+
+### lokales repo erstellen
 git init
 git add README.md
 git commit -m "first commit"
